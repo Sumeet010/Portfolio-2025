@@ -168,7 +168,7 @@ h2{
     background-color: rgba(0, 212, 255, 0.1);
     border-color: #00d4ff;
 }
-/* --- End Skills Section Styles --- */
+
 
 .circular-nav {
     position: fixed;
@@ -200,7 +200,7 @@ h2{
     transition: all 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-/* Animate navbar to slide up when page loads */
+/*Animations*/
 body.loaded .circular-nav {
     transform: translateX(-50%) translateY(0);
 }
